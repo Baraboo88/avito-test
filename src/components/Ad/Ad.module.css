@@ -1,0 +1,29 @@
+.ad {
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(71, 71, 71);
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: white;
+    align-items: center;
+    min-width: 70%;
+}
+
+.adData {
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    min-width: 70%;
+}
+
+.adPrice {
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+
+}
+
+.adImage {
+    margin-right: 30px;
+}
